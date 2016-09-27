@@ -9,7 +9,7 @@
 
 <h1>Review of the easyjet Website</h1>
   
-![this is an image](easyjet1.jpg)
+![this is an image](easyjet1.png)
 ![this is an image](easyjet.jpg)
 
 <h1>Review of the Daring Fireball Website</h1>
