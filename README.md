@@ -12,8 +12,8 @@
 
 **Review**
 
--
--
+- When opned on a smaller device the menue bar changes into a drop down bar
+- When viewed on a smaller device the majority of the options disapear
 
 <h1>Review of the Daring Fireball Website</h1>
   
