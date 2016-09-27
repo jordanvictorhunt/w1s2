@@ -4,17 +4,28 @@
 </html>
 
 <h1>Review of the easyjet Website</h1>
-  **Full Screen**
+
+**Full Screen**
 ![this is an image](easyjet1.png)
-  **Cropped**
+**Cropped**
 ![this is an image](easyjet.jpg)
+
+**Review**
+
+-
+-
 
 <h1>Review of the Daring Fireball Website</h1>
   
-  **Full Screen**
+**Full Screen**
 ![this is an image](daringfireball1.png)
-  **Cropped**
+**Cropped**
 ![this is an image](daringfireball2.png)
+
+**Review**
+
+-
+-
 
 <h1>Review of the BBC News Website</h1>
 
@@ -23,5 +34,8 @@
 **Cropped**
 ![this is an image](bbc2.jpg)
 
-  
+ **Review**
+ 
+ -
+ -
  
