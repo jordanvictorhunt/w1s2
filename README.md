@@ -19,7 +19,7 @@
 
 <h1>Review of the BBC News Website</h1>
 
-![this is an image](bbc1.jpg)
+![this is an image](bbc.jpg)
 ![this is an image](bbc2.jpg)
 
   
