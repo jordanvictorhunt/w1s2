@@ -14,6 +14,7 @@
 <h1>Review of the Daring Fireball Website</h1>
   
 ![this is an image](daringfireball1.png)
+![this is an image](daringfireball2.png)
 
   
  
